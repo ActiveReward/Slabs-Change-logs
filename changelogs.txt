@@ -1,0 +1,23 @@
+1 - Added a new anchient debris slab = top.
+2 - Changed the lumiance of the slime slab.
+3 - Changed the lumiance of the Honey slab.
+4 - Hay slab are now flammable.
+5 - All logs slabs are now flammable.
+6 - Made the deepslate red stone ore slab ( glow )
+7 - Added a new effect to the Dispenser slab.
+8 - Made the redstone ore slab ( glow )
+9 - All redstone slabs can now be used to power redstone.
+10 - Added barrel slab.
+11 - Added bedrock slab. CAN BE CRAFTED & DESTROYED!
+12 - Added bee top slab.
+13 - Added cactus slab.
+14 - Added Calcite slab.
+15 - Added daylight detector slab.
+16 - Added dropper slab.
+17 - Added enchanting table slab.
+18 - Added end portal slab.
+19 - Added respawn anchor slab.
+20 - Added TNT slab.
+21 - Added tuff slab.
+22 - Added white concrete slab.
+23 - Added white concrete powder slab.
